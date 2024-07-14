@@ -3,6 +3,6 @@
 
 
 
-echo $_GET['asdf2'];
+echo htmlspecialchars($_GET['asdf2'], ENT_QUOTES, 'UTF-8');
 
 ?>
