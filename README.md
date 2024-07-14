@@ -1,2 +1,2 @@
 # testrepo
-repo
+This is a repository
